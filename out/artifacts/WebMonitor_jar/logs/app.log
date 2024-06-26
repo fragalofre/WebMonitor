@@ -1,0 +1,11 @@
+25-06-2024 16:29:35 INFO  ConfiguracionWeb:176 - NAVEGADOR ABIERTO
+25-06-2024 16:29:35 ERROR ControladorPrincipal:328 - ERROR DURING IDENTIFYING MODEL
+25-06-2024 16:29:35 ERROR ControladorPrincipal:329 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.115)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52a4246fd0717307f1306b3b0f33a94a, switchToParentFrame {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.115, chrome: {chromedriverVersion: 126.0.6478.126 (d36ace6122e..., userDataDir: C:\Users\FRANCI~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62218}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62218/devtoo..., se:cdpVersion: 126.0.6478.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52a4246fd0717307f1306b3b0f33a94a
